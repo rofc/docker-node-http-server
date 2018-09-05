@@ -1,0 +1,20 @@
+{
+   "name": "node-http-server",
+   "version": "1.0.0",
+   "description": "Simple HTTP Server",
+   "main": "http.js",
+   "dependencies": {
+      "optimist":""
+   },
+   "repository": {
+      "type": "git",
+      "url": "git+https://github.com/rofc/docker-node-http-server.git"
+   },
+   "author": "Roberto O. Fernández Crisial rofc@rofc.com.ar",
+   "license": "ISC",
+   "bugs": {
+      "url": "https://github.com/rofc/docker-node-http-server/issues"
+   },
+   "homepage": "https://github.com/rofc/docker-node-http-server/"
+}
+
